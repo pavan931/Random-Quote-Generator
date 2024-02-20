@@ -22,6 +22,10 @@ let quoteData = [
 {
     quote:"That proves you are unusual,returned the Scarecrow and I am convinced that the only people worthy of consideration in this world are the unusual ones. For the common folks are like the leaves of a tree, and live and die unnoticed.",
     author:"L.Frank Baum"
+},
+{
+    quote:"That proves you are unusual,returned the Scarecrow and I am convinced that the only people worthy of consideration in this world are the unusual ones. For the common folks are like the leaves of a tree, and live and die unnoticed.",
+    author:"L.Frank Baum"
 }
 ]
 
